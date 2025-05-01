@@ -195,3 +195,15 @@ sudo ufw enable          # Enable firewall
 ```
 
 ---
+# levels of TCP attack
+***Nexus Reaper***
+Summary:
+10 GB per second
+600 GB per minute
+36 TB per hour
+
+***Astral REAPER***
+Summary:
+Per Second: 650 MB
+Per Minute: 39 GB
+Per Hour: 2.34 TB
